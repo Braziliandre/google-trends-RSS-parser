@@ -1,0 +1,15 @@
+{
+  "name": "google-trends-tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "rss-parser": "^3.13.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
